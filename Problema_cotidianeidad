@@ -1,0 +1,2 @@
+Problema: Aprender un nuevo idioma usando una app de manera eficiente, enfocándote en las palabras y estructuras gramaticales más importantes primero.
+Algoritmo: Un algoritmo de búsqueda en profundidad podría ser utilizado por la aplicación para definir un camino de aprendizaje que se ramifica de acuerdo a la complejidad del vocabulario y gramática. Un algoritmo más sofisticado podría usar un modelo basado en el conocimiento previo del usuario para personalizar el orden de aprendizaje.
